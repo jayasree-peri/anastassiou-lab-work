@@ -1,0 +1,11 @@
+
+Folders that should not be synchronized
+
+Fig_2
+/Volumes/Brain\&Co/SCIENCE/Projects/EPILEPSY_ALLEN/Paper/code_repo/Fig_2/ephys_analysis/Data 
+
+Fig_3
+/Volumes/Brain\&Co/SCIENCE/Projects/EPILEPSY_ALLEN/Paper/code_repo/Fig_3/morp_analysis/Data
+
+Fig_4
+/Volumes/Brain\&Co/SCIENCE/Projects/EPILEPSY_ALLEN/Paper/code_repo/Fig_4/model_analysis/ephys_features/Data

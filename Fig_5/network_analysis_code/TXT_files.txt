@@ -1,0 +1,6 @@
+Note
+
+All network spike data could be found in Data folder. The description of the files could be found in the spike_metrics_blocks.m script
+
+Data
+https://drive.google.com/drive/folders/1oYbMLB4nVRvNVE7mNf9gwVCEOwFZsclQ?usp=sharing

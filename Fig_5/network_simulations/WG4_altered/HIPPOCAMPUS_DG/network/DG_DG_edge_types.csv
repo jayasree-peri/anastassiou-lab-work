@@ -1,0 +1,6 @@
+edge_type_id target_query source_query syn_weight dynamics_params distance_range delay target_sections weight_function model_template
+100 model_type=='biophysical'&ei=='e' model_type=='biophysical'&ei=='e' 0.00020 AMPA_ExcToExc_GC_GC.json "[0.0, 150]" 0.8 "['apical', 'basal']" wmax exp2syn
+101 model_type=='biophysical'&ei=='e' model_type=='biophysical'&ei=='e' 0.0 AMPA_ExcToExc_GC_GC.json "[0.0, 150]" 0.8 "['apical', 'basal']" wmax exp2syn
+102 model_type=='biophysical'&ei=='i' model_type=='biophysical'&ei=='e' 0.0047 AMPA_ExcToInh_GC_BC.json "[0.0, 150]" 0.8 "['apical', 'basal']" wmax exp2syn
+103 model_type=='biophysical'&ei=='i' model_type=='biophysical'&ei=='i' 0.0076 GABA_InhToInh_BC_BC.json "[0.0, 150]" 0.8 ['basal'] NULL exp2syn
+104 model_type=='biophysical'&ei=='e' model_type=='biophysical'&ei=='i' 0.0016 GABA_InhToExc_BC_GC.json "[0.0, 50.0]" 0.85 ['somatic'] wmax exp2syn

@@ -1,0 +1,6 @@
+Note
+
+All JSON files specific for the model parameters could be found here
+
+Data
+https://drive.google.com/drive/folders/13FC-A9Q9qBZvBSDPpDvFBU_oRL8cqnIR?usp=sharing

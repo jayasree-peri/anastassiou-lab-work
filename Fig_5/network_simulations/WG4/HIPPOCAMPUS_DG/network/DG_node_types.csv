@@ -1,0 +1,15 @@
+node_type_id ei morphology_file model_processing pop_name location model_template model_type dynamics_params
+100 e 1606013050102.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1606013050102.json
+101 e 1606013050103.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1606013050103.json
+102 e 1606013050301.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1606013050301.json
+103 e 1606013050501.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1606013050501.json
+104 e 1606013050504.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1606013050504.json
+105 e 1706012210307.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012210307.json
+106 e 1706012210308.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012210308.json
+107 e 1706012210403.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012210403.json
+108 e 1706012210501.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012210501.json
+109 e 1706012210502.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012210502.json
+110 e 1706012211201.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012211201.json
+111 e 1706012211205.swc aibs_allactive_granule GC Granule_cell_layer ctdb:Biophys1.hoc biophysical 1706012211205.json
+112 i 529807751.swc aibs_allactive_granule BC Basket_cell_layer ctdb:Biophys1.hoc biophysical 529807751.json
+113 i 541536216.swc aibs_allactive_granule BC Basket_cell_layer ctdb:Biophys1.hoc biophysical 541536216.json
