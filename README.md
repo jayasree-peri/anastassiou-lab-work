@@ -13,10 +13,9 @@ Neuron 7.4 (https://neuron.yale.edu/neuron/)
 Rstudio (https://rstudio.com/)
 Matlab R2018a (https://www.mathworks.com/)
 
-```
- Data analysis code is organized using the corresponding folders. All necessary functions and vizualisations are included into the notebooks. The original data files including nwb, swc and RData files are located on the location.
 
-```
+Data analysis code is organized using the corresponding folders. All necessary functions and vizualisations are included into the notebooks. The original data files including nwb, swc and RData files are located on the location.
+
 
 ### Installing
 
