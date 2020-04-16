@@ -1,6 +1,6 @@
 # Code base for the manuscript "Multi-modal characterization and simulation of human epileptic circuitry"
 
-This repository contains the code that is necessary to reproduce the work of Buchin et al. 2020. The repository contains the code for Python, Matlab and R used in this study. Overall the code is organized using Figures folders.
+This repository contains the code that is necessary to reproduce the work of Buchin et al. 2020. The repository contains the code for Python, Matlab and R used in this study. To make is easier to comprehend, the code is organized into subdirectories that correspond to figures.
 
 ## Getting Started
 
@@ -13,10 +13,9 @@ Neuron 7.4 (https://neuron.yale.edu/neuron/)
 Rstudio (https://rstudio.com/)
 Matlab R2018a (https://www.mathworks.com/)
 
-```
- Data analysis code is organized using the corresponding folders. All necessary functions and vizualisations are included into the notebooks. The original data files including nwb, swc and RData files are located on the location.
 
-```
+Data analysis code is organized using the corresponding folders. All necessary functions and vizualisations are included into the notebooks. The original data files including nwb, swc and RData files are located on the location.
+
 
 ### Installing
 
