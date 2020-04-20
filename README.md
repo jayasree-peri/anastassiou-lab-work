@@ -7,10 +7,15 @@ This repository contains the code that is necessary to reproduce the work of Buc
 ### Prerequisites
 
 Anaconda Python 4.3.13 (Python 2.7)
+
 Brain Modeling Toolkit (https://alleninstitute.github.io/bmtk/)
+
 Allen SDK (https://allensdk.readthedocs.io/)
+
 Neuron 7.4 (https://neuron.yale.edu/neuron/)
+
 Rstudio (https://rstudio.com/)
+
 Matlab R2018a (https://www.mathworks.com/)
 
 
