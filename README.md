@@ -47,7 +47,7 @@ https://www.mathworks.com/
 * **Anatoly Buchin** - [abuchin](https://github.com/abuchin)
 * **Anirban Nandi** - [anirban6908](https://github.com/anirban6908)
 * **Jeremy Miller** - [jeremymiller](https://github.com/jeremymiller)
-* **Costas Anastassiou** - (https://www.linkedin.com/in/costas-anastassiou-1824945/)
+* **Costas Anastassiou** - [Costas13](https://github.com/Costas13)
 
 
 ## License
