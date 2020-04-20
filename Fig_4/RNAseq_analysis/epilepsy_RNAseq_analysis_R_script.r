@@ -1,4 +1,4 @@
-cl.out.path <- "\\\\allen/programs/celltypes/workgroups/hct/HCT_RNAseq/Jeremy/human_hippocampus/epilepsy_project/GitHub/"
+cl.out.path <- "\\\\ADD/YOUR/PATH"
 setwd(cl.out.path)
 
 library(scrattch.hicat)

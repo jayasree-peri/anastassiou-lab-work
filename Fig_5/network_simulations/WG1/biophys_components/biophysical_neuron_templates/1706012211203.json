@@ -1,0 +1,409 @@
+{
+    "passive": [
+        {
+            "ra": 100
+        }
+    ], 
+    "fitting": [
+        {
+            "junction_potential": 0.0, 
+            "sweeps": null
+        }
+    ], 
+    "conditions": [
+        {
+            "celsius": 34, 
+            "erev": [
+                {
+                    "ena": 53.0, 
+                    "section": "soma", 
+                    "ek": -107.0
+                }, 
+                {
+                    "ena": 53.0, 
+                    "section": "axon", 
+                    "ek": -107.0
+                }, 
+                {
+                    "ena": 53.0, 
+                    "section": "apic", 
+                    "ek": -107.0
+                }, 
+                {
+                    "ena": 53.0, 
+                    "section": "dend", 
+                    "ek": -107.0
+                }
+            ], 
+            "v_init": -80
+        }
+    ], 
+    "genome": [
+        {
+            "section": "soma", 
+            "name": "g_pas", 
+            "value": 0.00010669290953023798, 
+            "mechanism": ""
+        }, 
+        {
+            "section": "soma", 
+            "name": "e_pas", 
+            "value": "-99.9861", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "axon", 
+            "name": "g_pas", 
+            "value": 0.00043132116138416425, 
+            "mechanism": ""
+        }, 
+        {
+            "section": "axon", 
+            "name": "e_pas", 
+            "value": "-78.348", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "apic", 
+            "name": "g_pas", 
+            "value": 1.0374997940480758e-08, 
+            "mechanism": ""
+        }, 
+        {
+            "section": "apic", 
+            "name": "e_pas", 
+            "value": "-81.6129", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "dend", 
+            "name": "g_pas", 
+            "value": 0.0001416451859412593, 
+            "mechanism": ""
+        }, 
+        {
+            "section": "dend", 
+            "name": "e_pas", 
+            "value": "-80.7362", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "soma", 
+            "name": "cm", 
+            "value": "0.2606", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "soma", 
+            "name": "Ra", 
+            "value": "309.021", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "axon", 
+            "name": "cm", 
+            "value": "0.285216", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "axon", 
+            "name": "Ra", 
+            "value": "396.048", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "apic", 
+            "name": "cm", 
+            "value": "2.37882", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "apic", 
+            "name": "Ra", 
+            "value": "218.71", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "dend", 
+            "name": "cm", 
+            "value": "2.91474", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "dend", 
+            "name": "Ra", 
+            "value": "393.144", 
+            "mechanism": ""
+        }, 
+        {
+            "section": "axon", 
+            "name": "gkbar_Kir21", 
+            "value": 0.004186776401324225, 
+            "mechanism": "Kir21"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gkbar_Kv11", 
+            "value": 0.007185492998632232, 
+            "mechanism": "Kv11"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gkbar_Kv14", 
+            "value": 0.0821221844596706, 
+            "mechanism": "Kv14"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gkbar_Kv34", 
+            "value": 0.012273505794840198, 
+            "mechanism": "Kv34"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gkbar_Kv723", 
+            "value": 0.03791780433972263, 
+            "mechanism": "Kv723"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gbar_Cav12", 
+            "value": 0.000800094889188062, 
+            "mechanism": "Cav12"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gbar_Cav13", 
+            "value": 0.0004380732409030129, 
+            "mechanism": "Cav13"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gbar_Cav22", 
+            "value": 0.0024440435699465608, 
+            "mechanism": "Cav22"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gbar_Cav32", 
+            "value": 0.00041715384669039447, 
+            "mechanism": "Cav32"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gabkbar_BK_gc", 
+            "value": 1.1497033899699458, 
+            "mechanism": "BK_gc"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gakbar_BK_gc", 
+            "value": 0.04987947711195711, 
+            "mechanism": "BK_gc"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gkbar_SK2", 
+            "value": 2.6621107538043643e-05, 
+            "mechanism": "SK2"
+        }, 
+        {
+            "section": "axon", 
+            "name": "gbar_na8st", 
+            "value": 7.444293679052826, 
+            "mechanism": "na8st"
+        }, 
+        {
+            "section": "axon", 
+            "name": "tau_Cabuffer", 
+            "value": 64.82327957832763, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "axon", 
+            "name": "brat_Cabuffer", 
+            "value": 887.181003373869, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gkbar_Kv21", 
+            "value": 0.007813096979674437, 
+            "mechanism": "Kv21"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gbar_Cav12", 
+            "value": 0.0015773133528277149, 
+            "mechanism": "Cav12"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gbar_Cav13", 
+            "value": 0.0004264560602080865, 
+            "mechanism": "Cav13"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gbar_Cav22", 
+            "value": 4.4651402725305656e-05, 
+            "mechanism": "Cav22"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gbar_Cav32", 
+            "value": 0.0010969651999692318, 
+            "mechanism": "Cav32"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gabkbar_BK_gc", 
+            "value": 0.018936355207227185, 
+            "mechanism": "BK_gc"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gakbar_BK_gc", 
+            "value": 0.0027531045068828162, 
+            "mechanism": "BK_gc"
+        }, 
+        {
+            "section": "soma", 
+            "name": "gbar_na8st", 
+            "value": 1.8362059263279074, 
+            "mechanism": "na8st"
+        }, 
+        {
+            "section": "soma", 
+            "name": "tau_Cabuffer", 
+            "value": 213.7218555757571, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "soma", 
+            "name": "brat_Cabuffer", 
+            "value": 825.9850963397585, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gkbar_Kir21", 
+            "value": 9.037501232066795e-05, 
+            "mechanism": "Kir21"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gkbar_Kv42", 
+            "value": 0.10934319930495773, 
+            "mechanism": "Kv42"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gbar_Cav12", 
+            "value": 5.898629158757962e-05, 
+            "mechanism": "Cav12"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gbar_Cav13", 
+            "value": 3.1805307592365984e-05, 
+            "mechanism": "Cav13"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gbar_Cav22", 
+            "value": 0.0023139525715752778, 
+            "mechanism": "Cav22"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gbar_Cav32", 
+            "value": 0.00011628948716397725, 
+            "mechanism": "Cav32"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gkbar_SK2", 
+            "value": 9.306951522881224e-05, 
+            "mechanism": "SK2"
+        }, 
+        {
+            "section": "apic", 
+            "name": "gbar_HCN", 
+            "value": 5.982267597901305e-05, 
+            "mechanism": "HCN"
+        }, 
+        {
+            "section": "apic", 
+            "name": "tau_Cabuffer", 
+            "value": 218.32174339086896, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "apic", 
+            "name": "brat_Cabuffer", 
+            "value": 372.36527661489794, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gkbar_Kir21", 
+            "value": 0.00016420277067200956, 
+            "mechanism": "Kir21"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gkbar_Kv42", 
+            "value": 0.04539688819464181, 
+            "mechanism": "Kv42"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gbar_Cav12", 
+            "value": 0.0009751620025764871, 
+            "mechanism": "Cav12"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gbar_Cav13", 
+            "value": 4.760700581016548e-05, 
+            "mechanism": "Cav13"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gbar_Cav22", 
+            "value": 0.0014908632326198702, 
+            "mechanism": "Cav22"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gbar_Cav32", 
+            "value": 0.0017361136823378655, 
+            "mechanism": "Cav32"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gkbar_SK2", 
+            "value": 1.0350158656418889e-06, 
+            "mechanism": "SK2"
+        }, 
+        {
+            "section": "dend", 
+            "name": "gbar_HCN", 
+            "value": 5.408456584001391e-05, 
+            "mechanism": "HCN"
+        }, 
+        {
+            "section": "dend", 
+            "name": "tau_Cabuffer", 
+            "value": 855.3793363474449, 
+            "mechanism": "Cabuffer"
+        }, 
+        {
+            "section": "dend", 
+            "name": "brat_Cabuffer", 
+            "value": 482.0902607908703, 
+            "mechanism": "Cabuffer"
+        }
+    ]
+}

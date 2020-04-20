@@ -1,6 +1,5 @@
 Note
 
-All NWB files specific for each case could be found here:
+All NWB files are available here:
 
-Data
-https://drive.google.com/drive/folders/1XUeaS6-lbbXiW8Ms1Rv2HKRwyacGD_km?usp=sharing
+https://drive.google.com/open?id=1XUeaS6-lbbXiW8Ms1Rv2HKRwyacGD_km

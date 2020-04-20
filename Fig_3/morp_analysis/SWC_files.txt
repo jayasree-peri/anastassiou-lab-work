@@ -1,9 +1,9 @@
 Note
 
-All SWC files specific for each case could be found here:
+All SWC files could be available upon request:
 
-Data
-https://drive.google.com/drive/folders/1d0SORX7AgC2IbnxrIR3gFQegC1Pikfzi?usp=sharing
+anatolyb@alleninstitute.org
+anat.buchin@gmail.com
 
 Morphology feature extractor will be part of Allen SDK feature extraction library
 https://allensdk.readthedocs.io/en/latest/
