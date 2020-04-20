@@ -3,7 +3,7 @@ Note
 All SWC files could be available upon request:
 
 anatolyb@alleninstitute.org
-anat.buchin@gmail.com
+costasa@alleninstitute.org
 
 Morphology feature extractor will be part of Allen SDK feature extraction library
 https://allensdk.readthedocs.io/en/latest/

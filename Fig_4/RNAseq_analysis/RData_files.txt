@@ -3,7 +3,4 @@ Note
 Some genomic data files in RData format will be available upon request:
 
 anatolyb@alleninstitute.org
-anat.buchin@gmail.com
-
-
-Raw and aligned data will be deposited in the NeMO archive (https://nemoarchive.org/) for controlled access, as soon as such functionality in NeMO becomes available.
+costasa@alleninstitute.org
