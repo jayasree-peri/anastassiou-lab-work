@@ -1,5 +1,7 @@
 # Code base for the manuscript "Multi-modal characterization and simulation of human epileptic circuitry"
 
+![](/images/figure_TLE_summary.png)
+
 This repository contains the code that is necessary to reproduce the work of Buchin et al. 2020. The repository contains the code for Python, Matlab and R used in this study. To make is easier to comprehend, the code is organized into subdirectories that correspond to figures.
 
 ## Getting Started
