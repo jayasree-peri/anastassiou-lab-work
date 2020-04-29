@@ -13,7 +13,7 @@
 *.RData
 *.h5
 .ipynb_checkpoints
-.DS_store
+.DS_Store
 
 # Packages #
 ############
