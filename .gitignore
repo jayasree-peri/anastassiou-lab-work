@@ -12,6 +12,7 @@
 *.swc
 *.RData
 *.h5
+.ipynb_checkpoints
 
 # Packages #
 ############
