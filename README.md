@@ -43,7 +43,7 @@ https://www.neuron.yale.edu/neuron/
 Matlab
 https://www.mathworks.com/
 
-## Raw data availability
+## Data availability
 
 The necessary data is available in csv files in corresponding folders. All raw data is available upon request:
 
