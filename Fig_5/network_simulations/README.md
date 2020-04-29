@@ -6,7 +6,14 @@
 
 Anaconda Python 4.3.13 (Python 2.7)
 Neuron 7.4 (https://neuron.yale.edu/neuron/)
-Brain Modeling Toolkit (https://alleninstitute.github.io/bmtk/)
+Brain Modeling Toolkit: workshop2018 version (https://github.com/AllenInstitute/bmtk/tree/release/workshop2018/docs/tutorial)
+
+### Requirements
+
+Enviroment requirements could be found in requirements folder: requirements.txt and epilepsy_human_dg_network.yml file
+
+To install the enviroment run:
+'''conda env create -f epilepsy_human_dg_network.yml'''
 
 ### Installation
 

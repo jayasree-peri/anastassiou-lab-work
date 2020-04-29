@@ -1,4 +1,4 @@
-cl.out.path <- "\\\\ADD/YOUR/PATH"
+cl.out.path <- "/outputs"
 setwd(cl.out.path)
 
 library(scrattch.hicat)

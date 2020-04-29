@@ -29,7 +29,7 @@ spike_f = 'spikes.csv';
 % some more parameters...
 bin_dt = 10;                    % binning time step for assessing spike frequency
 pre = 0;
-sigma_times = 1.5;                % sigma for defining the event detection threshold
+sigma_times = 1.5;              % sigma for defining the event detection threshold
 dt_event_detection = 200;       % time interval to start detection of next event
 flag_plot = 0;                  % flag to plot event detection
 flag_plot2 = 0;                 % flag to plot event maxima
