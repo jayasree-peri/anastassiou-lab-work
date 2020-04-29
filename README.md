@@ -43,6 +43,15 @@ https://www.neuron.yale.edu/neuron/
 Matlab
 https://www.mathworks.com/
 
+## Raw data availability
+
+The necessary data is available in csv files in corresponding folders. All raw data is available upon request:
+
+anatolyb@alleninstitute.org
+anat.buchin@gmail.com
+costasa@alleninstitute.org
+costas.anastassiou@gmail.com
+
 
 ## Contributors
 
