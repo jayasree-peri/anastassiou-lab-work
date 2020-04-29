@@ -13,7 +13,7 @@ Brain Modeling Toolkit: workshop2018 version (https://github.com/AllenInstitute/
 Enviroment requirements could be found in requirements folder: requirements.txt and epilepsy_human_dg_network.yml file
 
 To install the enviroment run:
-'''conda env create -f epilepsy_human_dg_network.yml'''
+conda env create -f epilepsy_human_dg_network.yml
 
 ### Installation
 

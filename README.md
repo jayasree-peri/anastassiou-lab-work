@@ -26,7 +26,7 @@ Matlab R2018a (https://www.mathworks.com/)
 Enviroment requirements could be found in requirements folder: requirements.txt and epilepsy_human_dg_network.yml file
 
 To install the enviroment run:
-'''conda env create -f epilepsy_human_dg.yml'''
+conda env create -f epilepsy_human_dg.yml
 
 
 Data analysis code is organized using the corresponding folders. All necessary functions and vizualisations are included into the notebooks. The original data files including nwb, swc and RData files are available upon request.
