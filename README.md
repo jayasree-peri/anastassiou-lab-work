@@ -28,6 +28,11 @@ Enviroment requirements could be found in requirements folder: requirements.txt 
 To install the enviroment run:
 conda env create -f epilepsy_human_dg.yml
 
+or
+
+conda env create -f environment.yml -p /home/user/anaconda3/envs/env_name
+
+
 
 Data analysis code is organized using the corresponding folders. All necessary functions and vizualisations are included into the notebooks. The original data files including nwb, swc and RData files are available upon request.
 
