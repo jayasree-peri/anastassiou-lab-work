@@ -1,4 +1,4 @@
-name: jaya3
+name: hep_environment
 channels:
   - conda-forge
   - defaults
